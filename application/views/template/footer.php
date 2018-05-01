@@ -27,6 +27,7 @@
 </main>
 
 <footer class="footer">
+    <h2> tu je footer  </h2>
     <div class="container">
         <span class="text-muted">Place sticky footer content here.</span>
     </div>

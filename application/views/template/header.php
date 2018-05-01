@@ -16,7 +16,7 @@
     <link href="<?php echo base_url();?>assets/css/bootstrap-theme.min.css" rel="stylesheet">
 </head>
 <body>
-<h1>Hello, world!</h1>
+<h1>hello</h1>
 
 <!-- Optional JavaScript -->
 <!-- jQuery first, then Popper.js, then Bootstrap JS -->

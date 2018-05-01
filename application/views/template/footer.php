@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="">
     <meta name="author" content="">
-    <script src="<?php echo base_url();?>assets/js/bootstrap.min.js"></script>
+    <link rel="icon" href="../../../../favicon.ico">
 
     <title>Sticky Footer Template for Bootstrap</title>
 

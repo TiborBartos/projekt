@@ -1,36 +1,27 @@
 
 <!doctype html>
-<html lang="en">
-<head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="">
-    <meta name="author" content="">
-    <link rel="icon" href="../../../../favicon.ico">
 
-    <title>Sticky Footer Template for Bootstrap</title>
 
-    <!-- Bootstrap core CSS -->
-    <script src="<?php echo base_url();?>assets/js/bootstrap.min.js"></script>
 
-    <!-- Custom styles for this template -->
-    <script src="<?php echo base_url();?>assets/js/bootstrap.min.js"></script>
-</head>
-
-<body>
 
 <!-- Begin page content -->
 <main role="main" class="container">
-    <h1 class="mt-5">Sticky footer</h1>
-    <p class="lead">Pin a fixed-height footer to the bottom of the viewport in desktop browsers with this custom HTML and CSS.</p>
-    <p>Use <a href="../sticky-footer-navbar">the sticky footer with a fixed navbar</a> if need be, too.</p>
+
 </main>
 
 <footer class="footer">
-    <h2> tu je footer  </h2>
-    <div class="container">
-        <span class="text-muted">Place sticky footer content here.</span>
+
+    <div style="float: left;">
+        <IMG SRC="http://images.clipartpanda.com/equipment-clipart-AR-EQUIPMENT-32-R.png"  height="250 px" width="250 px" >
+    </div>
+
+    <div>
+        <a href="<?php echo base_url('home/add_sport'); ?>" class="btn btn-primary" > Pridať nové športovisko </a>
+    </div>
+
+    <div style="float: right;">
+        <IMG SRC="http://images.clipartpanda.com/shaft-clipart-AR-EQUIPMENT-48-R.png"  height="250 px" width="250 px" >
     </div>
 </footer>
-</body>
+
 </html>
